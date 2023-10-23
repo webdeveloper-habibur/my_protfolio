@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../practice_register.php"
+		},
+		{
+			"path": "../classtest"
+		},
+		{
+			"path": "admin_asset"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Practice"
+	}
+}
